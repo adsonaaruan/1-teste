@@ -1,2 +1,3 @@
 git init 
-jsiajd
+git status -s
+erro
